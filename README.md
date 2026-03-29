@@ -7,7 +7,7 @@ the pieces on the board will randomly shift their gravity to either left or righ
 
 Secondly, we will introduce the AI vs. AI mode, which can serve as tutorial for new players.
 
-Lastly, we will integrate those functions and change hostGame() to implement the newer version of Connect4. If possible, we will display the game through Pysript online to better visualize the game progress.
+Lastly, we will integrate those functions and change hostGame() to implement the newer version of Connect4. If possible, we will deploy the game through Pysript online to better visualize the game progress.
 
 Starter code:
 We've finished the first part of our game. We split our gravitg-changing mode into two parts, gravity-storing function and gravity-changing (to the right & left) function.
